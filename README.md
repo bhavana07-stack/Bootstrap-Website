@@ -63,5 +63,4 @@ The website uses Bootstrap components such as navbar, grid system, and cards to 
 
 ## Author
 
-Created as part of a front-end web development project using Bootstrap 5.  
-The purpose of this project is to understand responsive design, Bootstrap components, and modern UI layout structure.
+Bhavana
